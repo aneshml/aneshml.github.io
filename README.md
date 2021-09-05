@@ -1,4 +1,4 @@
-# aneshml.github.io
+
 <h1 align="center">Hi 👋, I'm Anesh</h1>
 <h3 align="center">Solving business and societal problems using data</h3>
 
